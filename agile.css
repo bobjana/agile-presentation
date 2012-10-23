@@ -38,3 +38,11 @@ code {
   font-size: 14px;
 }
 
+.long {
+   width: 1000px;
+}
+
+.tall {
+   height: 600px;
+}
+
