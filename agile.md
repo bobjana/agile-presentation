@@ -93,14 +93,13 @@ code {
 ### Where did **Agile** originate?
 
 !SLIDE screen slide x=1800 y=1000
-* Not a new concept or idea
-* Not specific to software either
-* Some principles were borrowed from lean
+## Precursor
+Toyota lean manufacturing
 
 !SLIDE screen slide x=2800 y=1000
 * Industry experts got together
 * Identified best practices and processes
-* Derived common **values** they all agreed upon
+* Derived a set common core **values** they all agreed upon
 
 !SLIDE left tall x=2000 y=2300 scale=2
 ### AGILE MANIFESTO
